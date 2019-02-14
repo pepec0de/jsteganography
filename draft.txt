@@ -1,0 +1,1 @@
+LSB technique to hide data in PNG images & using AES and SHA-2 algorithm for encryption/decryption of the hidden data.
